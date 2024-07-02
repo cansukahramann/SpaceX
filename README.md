@@ -42,7 +42,7 @@ Click on any launch to get more information about it.
 
 ## Contributing 🤝
 
-We welcome your contributions! Please submit a pull request for any changes you'd like to make. For major changes, please open a discussion thread first to discuss what you would like to change.
+Contributions are welcome! Please submit a pull request for any changes you'd like to make. For major changes, please open a discussion thread first to discuss what you would like to change.
 
 ## License 📄
 
@@ -50,4 +50,4 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ## Contact 📧
 
-For questions, please contact us at fatmacansukahraman@gmail.com.
+For questions, please contact me at fatmacansukahraman@gmail.com.
