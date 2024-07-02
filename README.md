@@ -1,4 +1,4 @@
-# SpaceX iOS Application 🚀
+# SpaceX 🚀
 
 This project is an iOS application that provides information about SpaceX. Users can retrieve information about upcoming and past SpaceX launches.
 
@@ -34,13 +34,13 @@ Click on any launch to get more information about it.
 
 ## Structure 📂
 
-Models/: Contains application data models.
-Views/: Contains application UI components.
-Controllers/: Contains application logic and data management.
-Services/: Contains API services and data fetching operations.
-Utilities/: Contains helper methods.
+- Models/: Contains application data models.
+- Views/: Contains application UI components.
+- Controllers/: Contains application logic and data management.
+- Services/: Contains API services and data fetching operations.
+- Utilities/: Contains helper methods.
 
-## Contributing 🤝
+## Contributing 🤝
 
 We welcome your contributions! Please submit a pull request for any changes you'd like to make. For major changes, please open a discussion thread first to discuss what you would like to change.
 
